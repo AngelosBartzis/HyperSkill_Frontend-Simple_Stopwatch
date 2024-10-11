@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+}
+
+h1, #timer, #laps {
+    font-size: x-large;
+}
+
+button {
+    font-size: x-large;
+}
+
+#start {
+    background: blue;
+    color: white;
+}
+
+#stop {
+    background: red;
+    color: white;
+}
+
+#reset {
+    background: black;
+    color: white;
+}
+
+#lap {
+    background: green;
+    color: white;
+}
